@@ -6,8 +6,6 @@ NewsApp is a news application built with Android Studio Jetpack Compose. It fetc
 
 - Display the latest news articles
 - Categorize news by different topics
-- Search for specific news articles
-- Save favorite articles
 - User-friendly UI with Jetpack Compose
 
 ## Tech Stack
